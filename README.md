@@ -1,3 +1,3 @@
 # First-Demo
 This is my first Repository
-Author - Hasnain
+Author - Hasnain (Apna College)
